@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Shuttle landing zones -->
+  <!-- EN: Shuttle could not land on pad: {0} -->
+  <ShuttleBlocked>La navetta non è riuscita ad atterrare sulla piattaforma: {0}</ShuttleBlocked>
+  <!-- EN: blocked by {0_label}. -->
+  <BlockedBy>bloccato da {0_label}.</BlockedBy>
+  <!-- EN: The shuttle has arrived. -->
+  <MessageShuttleArrived>La navetta è arrivata.</MessageShuttleArrived>
+  <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
+  <MessageShuttleArrivedContentsLost>La navetta è arrivata, ma poiché non c'erano coloni all'interno, il contenuto è andato perso.</MessageShuttleArrivedContentsLost>
+  <!-- EN: Cannot call shuttle -->
+  <CannotCallShuttle>Impossibile chiamare la navetta</CannotCallShuttle>
+
+  <!-- EN: Cannot land in undiscovered area. -->
+  <ShuttleCannotLand_Fogged>Impossibile atterrare in un'area non ancora scoperta.</ShuttleCannotLand_Fogged>
+  <!-- EN: Area must be walkable. -->
+  <ShuttleCannotLand_Unwalkable>L'area deve essere pedonabile.</ShuttleCannotLand_Unwalkable>
+
+  <!-- EN: Warning: Anima tree has been marked for cutting. -->
+  <MessageWarningCutAnimaTree>Avvertenza: l'albero-anima è stato contrassegnato per venir tagliato.</MessageWarningCutAnimaTree>
+
+  <!-- EN: Select {TARGET_definite} and right-click the bestower to begin the bestowing ceremony. -->
+  <MessageBestowerWaiting>Seleziona {TARGET_definite} e fai clic con il pulsante destro sul rappresentante dell'Impero per iniziare la cerimonia.</MessageBestowerWaiting>
+  <!-- EN: Cannot reach bestower! -->
+  <MessageBestowerUnreachable>Impossibile raggiungere il rappresentante dell'Impero!</MessageBestowerUnreachable>
+  <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
+  <MessageBestowingSpotUnreachable>Il rappresentante dell'Impero è infastidito dall'interferenza e ha deciso di andarsene.</MessageBestowingSpotUnreachable>
+
+  <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
+  <MessageBestowingCeremonyStarted>La cerimonia per conferimento del titolo reale a {PAWN_definite} è iniziata.</MessageBestowingCeremonyStarted>
+  <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
+  <MessageMissionGetBackToShuttle>Hai sconfitto i {FACTION_pawnsPlural}! Torna sulla navetta per ripartire.</MessageMissionGetBackToShuttle>
+
+  <!-- EN: {FACTION_name} has dropped resources nearby. -->
+  <MessagePermitTransportDrop>{FACTION_name} ha perso delle risorse nelle vicinanze.</MessagePermitTransportDrop>
+  <!-- EN: {FACTION_name} has sent resources to {PAWN_nameDef}'s caravan. -->
+  <MessagePermitTransportDropCaravan>{FACTION_name} ha inviato delle risorse alla carovana di {PAWN_nameDef}.</MessagePermitTransportDropCaravan>
+
+</LanguageData>

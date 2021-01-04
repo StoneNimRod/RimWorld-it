@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The blueprint would overlap with a monument marker. -->
+  <BlueprintWouldCollideWithMonument>Il progetto si sovrappone ad un contrassegno per la costruzione di un monumento.</BlueprintWouldCollideWithMonument>
+
+</LanguageData>
